@@ -95,7 +95,7 @@ Because she:
 
 ---
 
-## 🔗 Mermaid Diagram — Terraform Workflow
+## 🔗 Diagram — Terraform Workflow
 
 <pre> ```
 Write main.tf (blueprint)
@@ -112,6 +112,10 @@ Use infra for app or deployment
         ↓
 terraform destroy (if needed)
 ``` </pre>
+
+<p align="center">
+  <img src="terraform_flowchart.png" alt="Terraform Flowchart Image" width="500"/>
+</p>
 
 ---
 
