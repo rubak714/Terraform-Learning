@@ -97,15 +97,20 @@ Because she:
 
 ## 🔗 Mermaid Diagram — Terraform Workflow
 
-```mermaid
-graph TD
-  A[Write main.tf (blueprint)] --> B[terraform init]
-  B --> C[terraform plan]
-  C --> D[terraform apply]
-  D --> E[Docker Container / Cloud Infra Ready]
-  E --> F[Use infra for app or deployment]
-  F --> G[terraform destroy (if needed)]
-```
+Write main.tf (blueprint)
+        ↓
+   terraform init
+        ↓
+   terraform plan
+        ↓
+   terraform apply
+        ↓
+Docker Container / Cloud Infra Ready
+        ↓
+Use infra for app or deployment
+        ↓
+terraform destroy (if needed)
+
 
 ---
 
