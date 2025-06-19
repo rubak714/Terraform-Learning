@@ -97,6 +97,7 @@ Because she:
 
 ## 🔗 Mermaid Diagram — Terraform Workflow
 
+<pre> ```
 Write main.tf (blueprint)
         ↓
    terraform init
@@ -110,7 +111,7 @@ Docker Container / Cloud Infra Ready
 Use infra for app or deployment
         ↓
 terraform destroy (if needed)
-
+``` </pre>
 
 ---
 
