@@ -1,4 +1,4 @@
-# Beginner Terraform + Docker Project on Ubuntu (No AWS Required)
+# Terraform + Docker Project on Ubuntu (without AWS)
 
 ## 🔗 What is Terraform?
 
