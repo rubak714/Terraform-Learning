@@ -114,7 +114,7 @@ terraform destroy (if needed)
 ``` </pre>
 
 <p align="center">
-  <img src="terraform_flowchart.png" alt="Terraform Flowchart Image" width="500"/>
+  <img src="terraform_flowchartt.png" alt="Terraform Flowchart Image" width="500"/>
 </p>
 
 ---
