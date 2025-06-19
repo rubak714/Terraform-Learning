@@ -34,10 +34,6 @@ This guide helps set up a complete local DevOps project using **Terraform** and 
 
 ## 🔗 Terraform Analogy Story: Let's Build a House with Code
 
-> Don't worry!!! I went through that phase also.
->
-> Let's read this story to make every connection clear!
-
 ---
 
 ### 🔗 Imagine this:
